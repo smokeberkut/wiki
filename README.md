@@ -13,3 +13,5 @@ Testing Step 4. Commit only
     git clone https://github.com/smokeberkut/wiki.git
 
 $$ TEST $$
+
+[wiki.sakhost.ru](https://wiki.sakhost.ru)
