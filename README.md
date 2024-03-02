@@ -15,3 +15,9 @@ Testing Step 4. Commit only
 $$ TEST $$
 
 [wiki.sakhost.ru](https://wiki.sakhost.ru)
+
+List:
+* Bullet 1
+- Bullet 2
+
+**bolded**
