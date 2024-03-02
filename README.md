@@ -10,6 +10,6 @@ Testing Step 4. Commit only
 ## Step 2 ##
 ### Step 3 ###
 
-    git clone https://github.com/smokeberkut.wiki.git
+    git clone https://github.com/smokeberkut/wiki.git
 
-
+$$ TEST $$
