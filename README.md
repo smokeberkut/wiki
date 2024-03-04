@@ -21,5 +21,7 @@ List:
 - Bullet 2
 
 **bolded**
+
 *stronged*
+
 _underlined_?
